@@ -9,7 +9,7 @@
 
 ---
 [Conjoint Analysis: Toy Horse Product Line Design](pdf/Conjoint Analysis-Toy Horse Product Line Design.html)
-<img src="images/toyHorse.png"/>
+<img src="images/Screen Shot 2020-02-19 at 6.17.35 PM.png"/>
 
 ---
 
