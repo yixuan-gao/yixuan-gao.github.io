@@ -4,7 +4,7 @@
 
 ### Projects with R 
 
-[Pricing Analytics: Launching New Product](/sample_page)
+[Pricing Analytics: Launching New Product](pdf/Pricing-Project2.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
