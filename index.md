@@ -5,9 +5,7 @@
 ### Projects with R 
 
 [Pricing Analytics: Launching New Product](pdf/Pricing-Project2.html)
-<img src="images/KB_KR_Profit.png"/>
-<img src="images/Screen Shot 2020-02-19 at 9.48.28 AM.png"/>
-<img src="images/Screen Shot 2020-02-19 at 9.50.04 AM.png"/>
+<img src="images/pricing2Plot.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
