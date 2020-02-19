@@ -8,8 +8,8 @@
 <img src="images/pricing2Plot.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/toyHorse.png/>
+[Conjoint Analysis: Toy Horse Product Line Design](/pdf/sample_presentation.pdf)
+<img src="images/toyHorse.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
