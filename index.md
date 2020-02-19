@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects with R 
 
-[Consumer Segmentation and Pricing for Kiwi Bubble](/sample_page)
+[Pricing Analytics: Launching New Product](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
