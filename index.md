@@ -13,6 +13,6 @@
 
 ---
 
-[Conditional Causal Effect: Email Campaign Targeting](pdf/Email Campaign Targeting.html)
+[Conditional Causal Effect: Email Campaign Targeting](pdf/wineRetailer.html)
 <img src="images/wineRetailer.png"/>
 
