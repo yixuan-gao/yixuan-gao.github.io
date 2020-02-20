@@ -13,3 +13,6 @@
 
 ---
 
+[Conditional Causal Effect: Email Campaign Targeting](pdf/Targeting for Email Campaign.html)
+<img src="images/Screen Shot 2020-02-19 at 6.17.35 PM.png"/>
+
