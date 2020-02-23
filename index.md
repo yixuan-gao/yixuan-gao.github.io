@@ -5,6 +5,7 @@
 ### Product Management Project 
 
 [Product Management: Landing Page Reconfiguration](pdf/Wellacopia Product Management.pdf)
+> Wellacopia is a healthcare platform matching people with chronic diseases with specialists based on specific needs and preferences. This project delivers recommendations (create a prototype) for a redesigned landing page navigation that could increase basic sign ups and referrals of the seekers by identifying gaps that cause low engagement on landing page and high drop-out rate during sign-up process.
 <img src="images/wellacopiaUpdate.png"/>
 
 ---
